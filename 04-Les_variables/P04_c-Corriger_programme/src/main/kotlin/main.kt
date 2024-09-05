@@ -1,6 +1,6 @@
 fun main() {
     val string = "Hello, World!"
-    string = "Hello, Kotlin!"
+    var string = "Hello, Kotlin!"
     println(string)
 }
 

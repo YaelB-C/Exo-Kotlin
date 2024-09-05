@@ -1,5 +1,5 @@
 fun main() {
-    val number: String = 100
+    val number = 100
     println(number)
 }
 
